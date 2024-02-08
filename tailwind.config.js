@@ -5,7 +5,14 @@ export default {
       "./src/**/*.{js,jsx,tsx}"
   ],
   theme: {
-    extend: {},
+    extend: {
+        colors: {
+            rocketseat: '#8257e6'
+        },
+        fontFamily: {
+            sans: ['Inter', 'sans-serif']
+        }
+    },
   },
   plugins: [],
 }
