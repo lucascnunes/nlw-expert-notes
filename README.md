@@ -3,4 +3,6 @@
 Aplicação desenvolvida durante o NLW Expert de 2024 pela Rocketseat
 
 
-[imagens]
+## intenções
+
+- adicionar conexão com servidor node para armazenamento "backup" das notas online.
